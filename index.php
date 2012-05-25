@@ -6,4 +6,6 @@
 	licensed under GPL v3
 */
 
+include "./NanoMVC.class.php";
+
 ?>
